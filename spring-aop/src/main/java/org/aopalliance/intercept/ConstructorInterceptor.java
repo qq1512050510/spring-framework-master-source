@@ -16,7 +16,7 @@
 
 package org.aopalliance.intercept;
 
-import javax.annotation.Nonnull;
+import javax.annotation.Nonnull; 
 
 /**
  * Intercepts the construction of a new object.
